@@ -1,5 +1,5 @@
 me\christyjohn\springpetclinic\model\Pet.class
-me\christyjohn\springpetclinic\model\Vet.class
-me\christyjohn\springpetclinic\model\Person.class
 me\christyjohn\springpetclinic\model\PetType.class
 me\christyjohn\springpetclinic\model\Owner.class
+me\christyjohn\springpetclinic\model\Vet.class
+me\christyjohn\springpetclinic\model\Person.class
