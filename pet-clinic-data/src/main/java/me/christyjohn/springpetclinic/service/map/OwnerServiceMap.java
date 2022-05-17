@@ -1,9 +1,9 @@
-package me.christyjohn.springpetclinic.services.map;
+package me.christyjohn.springpetclinic.service.map;
 
 import java.util.Set;
 
 import me.christyjohn.springpetclinic.model.Owner;
-import me.christyjohn.springpetclinic.services.CrudService;
+import me.christyjohn.springpetclinic.service.CrudService;
 
 public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements CrudService<Owner, Long> {
 

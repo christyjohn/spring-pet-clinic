@@ -1,4 +1,4 @@
-package me.christyjohn.springpetclinic.services;
+package me.christyjohn.springpetclinic.service;
 
 import me.christyjohn.springpetclinic.model.Owner;
 
