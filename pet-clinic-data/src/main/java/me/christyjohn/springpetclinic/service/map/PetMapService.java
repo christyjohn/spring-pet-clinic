@@ -8,7 +8,7 @@ import me.christyjohn.springpetclinic.model.Pet;
 import me.christyjohn.springpetclinic.service.PetService;
 
 @Service
-public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService {
+public class PetMapService extends AbstractMapService<Pet, Long> implements PetService {
 
 	@Override
 	public Set<Pet> findAll() {
