@@ -9,10 +9,12 @@ C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-c
 C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-clinic-data\src\main\java\me\christyjohn\springpetclinic\service\map\AbstractMapService.java
 C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-clinic-data\src\main\java\me\christyjohn\springpetclinic\model\Person.java
 C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-clinic-data\src\main\java\me\christyjohn\springpetclinic\model\PetType.java
+C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-clinic-data\src\main\java\me\christyjohn\springpetclinic\service\SpecialtyService.java
 C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-clinic-data\src\main\java\me\christyjohn\springpetclinic\model\BaseEntity.java
 C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-clinic-data\src\main\java\me\christyjohn\springpetclinic\service\map\PetMapService.java
 C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-clinic-data\src\main\java\me\christyjohn\springpetclinic\service\VetService.java
 C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-clinic-data\src\main\java\me\christyjohn\springpetclinic\service\PetService.java
+C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-clinic-data\src\main\java\me\christyjohn\springpetclinic\service\map\SpecialityMapService.java
 C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-clinic-data\src\main\java\me\christyjohn\springpetclinic\model\Visit.java
-C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-clinic-data\src\main\java\me\christyjohn\springpetclinic\service\map\VetServiceMap.java
+C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-clinic-data\src\main\java\me\christyjohn\springpetclinic\service\map\VetMapService.java
 C:\christy\workspace\Spring\Udemy\John_Thompson\Spring 5\spring-pet-clinic\pet-clinic-data\src\main\java\me\christyjohn\springpetclinic\service\map\PetTypeMapService.java
